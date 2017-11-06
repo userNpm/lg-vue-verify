@@ -1,6 +1,6 @@
 {
   "name": "lg-vue-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue validate",
   "main": "./src/index.js",
   "scripts": {
